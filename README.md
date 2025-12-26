@@ -11,5 +11,6 @@ LM Store is a high-performance e-commerce platform featuring a Neo-Brutalist Adm
 ## 🚀 Quick Start
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/asadullahbro/lm-store.git](https://github.com/asadullahbro/lm-store.git)
+   git clone https://github.com/asadullahbro/LM-Store.git
+
    
