@@ -2,6 +2,7 @@
 **A Modern E-commerce Full-Stack Application**
 
 [View Frontend Docs](./frontend/README.md)
+
 [View Backend Docs](./backend/README.md)
 
 LM Store is a high-performance e-commerce platform featuring a Neo-Brutalist Admin Dashboard, Soft-Delete inventory management, and a FastAPI-powered secure backend.
