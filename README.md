@@ -4,7 +4,8 @@
 LM Store is a high-performance e-commerce platform featuring a Neo-Brutalist Admin Dashboard, Soft-Delete inventory management, and a FastAPI-powered secure backend.
 
 ## 🏗️ Project Structure
-- **/frontend**: Next.js 14, Tailwind CSS, Framer Motion, Lucide Icons.
+- **/frontend**: Next.js 15, Tailwind CSS, Framer Motion, Lucide Icons.
+
 - **/backend**: FastAPI (Python), SQLite, JWT Authentication.
 
 ## 🚀 Quick Start
