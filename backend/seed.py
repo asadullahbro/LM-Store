@@ -1,7 +1,8 @@
 import sys
 import os
 import asyncio
-
+DEFAULT_ADMIN = "" # <-- Insert admin name
+DEFAULT_ADMIN_PASSWORD = "" # <-- Insert admin password
 # --- PATH FIX START ---
 # Get the absolute path of the folder this script is in (the 'backend' folder)
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -15,11 +16,11 @@ from auth import AuthService  # Make sure your file is named auth.py
 async def seed_data():
     print("Starting seed process...")
     
-    # 1. Create a Test User (Asadullah)
-    hashed_pw = await AuthService.hash_password("password123")
+    # 1. Create a Admin User
+    hashed_pw = await AuthService.hash_password(DEFAULT_ADMIN_PASSWORD)
     db.execute_query(
         "INSERT OR IGNORE INTO users (username, password, role) VALUES (?, ?, ?)",
-        ("asadullah", hashed_pw, "admin"),
+        (DEFAULT_ADMIN, hashed_pw, "admin"),
         commit=True
     )
 
