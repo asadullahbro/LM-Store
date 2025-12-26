@@ -1,6 +1,6 @@
 # LM Store Frontend 🎨
 
-Built with **Next.js 14** and **Tailwind CSS**.
+Built with **Next.js 15** and **Tailwind CSS**.
 
 ## 🛠️ Setup
 1. **Install Packages:**
