@@ -1,6 +1,0 @@
-node_modules/
-.next/
-backend/lmstore.db
-.env
-__pycache__/
-.venv/
