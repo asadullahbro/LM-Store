@@ -30,7 +30,7 @@ LM Store is a fully functional ecommerce template built for local businesses.
 - Manage orders (confirm, deliver, invoice)  
 - Generate printable invoices  
 - Optional addons: online payments, multi-store setup, email automation  
-- View Screenshots in the images
+- View Screenshots in the [Image](/images)
 ---
 
 ## 3️⃣ Why It Matters
