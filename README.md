@@ -41,5 +41,4 @@ LM Store is a fully functional ecommerce template built for local businesses.
 ---
 
 ## 4️⃣ Contact
-For deployment, customization, or demo access, reach out via email:  
-[me.asadullah9@gmail.com](mailto:me.asadullah9@gmail.com)
+For deployment, customization, or demo access, reach out via email:  [asadullah@asdl.website](mailto:asadullah@asdl.website)
